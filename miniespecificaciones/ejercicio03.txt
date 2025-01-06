@@ -20,3 +20,5 @@
 // 30
 // 110
 //
+
+Las dos "funciones" son realmente procedimientos ya que no existe ningún valor que se retorne.
